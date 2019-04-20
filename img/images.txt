@@ -1,0 +1,8 @@
+cappuccino2.png
+cappucino1.jpg
+chili_choco1.jpg
+expresso1.jpg
+hot_choco1.jpg
+images.txt
+main_background.jpg
+moccacino1.png
